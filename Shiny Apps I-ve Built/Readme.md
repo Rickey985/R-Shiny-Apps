@@ -1,1 +1,1 @@
-
+Business Prop A and B is a simple query builder, a user can filter out some data (from A), and the table below reflects the data remaining which match their filters.  They can then go to the chart builder (from B), and then view the detail for that property in more detail.
